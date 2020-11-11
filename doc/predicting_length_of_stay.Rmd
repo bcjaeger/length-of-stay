@@ -1,0 +1,31 @@
+---
+title: "Prediction of extended length of stay with the PHTS"
+bibliography: refs.bib
+csl: jacc.csl
+output: 
+  officedown::rdocx_document:
+    reference_docx: style_manuscript_times_new_roman.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Analysis
+
+## Reproducibility
+
+<details><summary>Reproducibility receipt</summary>
+
+```{r}
+## datetime
+Sys.time()
+
+## repository
+git2r::repository()
+
+## session info
+sessionInfo()
+```
+
+</details>
