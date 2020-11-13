@@ -29,7 +29,7 @@ The count and percent of missing values was tabulated overall and by length of s
 r_version <- glue::glue("{version$major}.{version$minor}")
 ```
 
-All analyses were conducted using SAS version 9.4, R version `r r_version`, and a number of open-source R packages [@r_language; @table.glue; @drake; @tidymodels; @tidyverse].
+All analyses were conducted using SAS version 9.4, R version `r r_version`, and a number of open-source R packages [@r_language; @table.glue; @drake; @tidymodels; @tidyverse]. All R code for the current analysis is publicly available at. Data for the current analysis are available by request from __FILL IN__
 
 <br>
 
